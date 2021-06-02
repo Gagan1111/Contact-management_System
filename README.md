@@ -12,5 +12,5 @@ which can handle CRUD operations easily,following project creates a new db. exte
 I have used "Server-less database" for user to perform CRUD operation locally.
 
 ### Libray used in Python:
--Sqlite3 : To handle databse
--Prettytable : To show data in tabular format. 
+- Sqlite3 : To handle databse
+- Prettytable : To show data in tabular format. 
